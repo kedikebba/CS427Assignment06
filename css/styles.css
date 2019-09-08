@@ -1,0 +1,41 @@
+body h1{
+    font-weight: bold;
+    font-style: italic;
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.imageOne img{
+    height: 200px;
+    width: 200px;
+}
+
+.textArea{
+   font-size: 15pt;
+   text-align: right;
+
+}
+legend{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+fieldset{
+    width: 50%;
+    border-right-style: none;
+}
+.decoration{
+    width: 50%;
+    border-right-style: none;
+    border-bottom-style: none;
+}
+.decoration label{
+    display: block;
+}
+.decoration button{
+    background-color: rgb(214, 214, 214);
+    border-radius: 5px;
+    font-size: 15px;
+    margin-bottom: 5px;
+}
