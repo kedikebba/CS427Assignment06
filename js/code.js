@@ -18,7 +18,7 @@ window.onload = function(){
     }
     function changeSize(){
       let currentFont = parseInt(window.getComputedStyle(textAreaId).fontSize);
-      //textAreaId.style.fontSize = (currentFont*2*0.75) + "pt";
+
 
      textAreaId.style.fontSize = (currentFont*0.75)+2 + "pt"; 
       alert("Hello, world!");
